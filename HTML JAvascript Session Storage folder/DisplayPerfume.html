@@ -1,0 +1,89 @@
+<!--Created by Anusha Gajula and Neha Reddy Anumalla 
+ Group-6-->
+
+ <html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="styles.css"></link>
+		
+		<script type="text/javascript" src="displayPerfumeJs.js"></script>
+		<title>Display Perfume List Page</title>
+	</head>
+	<body >
+		<center>
+			<h1><label id="userNote"></label><br>PERFUME STORE
+			
+			</h1>
+			<a href="Home.html">Home</a> | <input type="submit" value= "View Perfumes" id="viewPerfumesBtn"/> | <input type="button" value= "Check Out" id="CheckOutBtn"/> | 
+			<input type="submit" value= "Pay Online" id="payOnlineButton"/> | <a href="Logout.html">Logout </a>  
+			<hr/>
+			<div class="center">
+				
+			<div class="rightdiv" style="text-align: justify; text-justify: inter-word; padding:20px;">
+				
+				<p id="errMessage"></p><br>
+					
+				<table id="viewListOfPerfumes"></table>
+					
+			    <p id="promocodeLable">Enter Promo Code :
+				<input type="text" name="promocode" id="promocode"/></p> <br>
+						
+				<div id="summaryOfOrder"></div>
+					
+				<div id="completePayment"></div>
+					
+		<fieldset id="viewPayform">
+		    <legend><h2> Payment Details</h2> </legend><br>
+			<h3 style="color:red;" id="payfieldErrors"></h3>
+			
+			<table style="width:100%">
+			
+			<tr><td> Total Amount : </td><td><div id="amountLabel"></div>	</td></tr>
+			<tr><td>	Full Name :</td><td> <input type="text" name="fullName" id="fullName" required pattern="[A-Za-z]+"/></td></tr>
+							
+			<tr><td>Card No : </td><td><input type="text" name="cardNo" id="cardNo" required placeholder="16 Digit Number" /></td></tr>
+							
+			<tr><td>Valid upto : </td><td><input type="text" name="validityDate" id="validityDate" required placeholder="MM/YYYY"/></td></tr>
+								
+			<tr><td>Select Card Type :</td><td>
+			
+			   <input type="radio" name="cardType" value="Visa" checked> Visa<br>
+			   <input type="radio" name="cardType" value="Master"> Master<br>
+			   <input type="radio" name="cardType" value="Discover"> Discover<br>
+			   <input type="radio" name="cardType" value="Amx"> American Express<br></td></tr>
+							
+			<tr><td>Mobile No : </td><td> <input type="text" name="mobileNo" id="mobileNo" required placeholder="10 Ditgits No" /></td></tr>
+								
+			<tr><td>Email Id : </td><td><input type="email" name="email" id="email" required/></td></tr>
+								
+			<tr><td>Address : </td><td> <textarea  name="address" id="address" rows="5" cols="25" required>
+								
+						</textarea></td></tr>
+								
+								
+			<tr><td><input type="submit" value="Complete Order" id="completeOrderBtn"/></td><td><input type="reset" value="Reset" id="resetBtn"/></td></tr>
+			</table>
+							
+		</fieldset>
+				
+					
+        </div>
+				
+	<div class="leftdiv">
+	   <h2>Choose Perfume</h2><hr/>
+	   <a href="DisplayPerfume.html">Display Perfumes</a>
+	   <br><br>
+	   Select the perform from the list and proceed to check out.
+	   <div id="summaryOfBill" style="background-color: #FFEBCD;"></div>
+							
+     </div>
+				
+	 </div>
+			
+	<footer>
+			Copy right &copy; 2016 @ Perfume Store 
+	</footer>
+		
+		<center>
+		
+	</body>
+</html>

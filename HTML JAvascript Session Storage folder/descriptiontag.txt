@@ -1,0 +1,38 @@
+<description>
+			A stunning perfume, overwhelming and irresistible like the joy of living. 
+			Surprising and colored: the liveliness of Sicilian citron, 
+			the happiness of Granny Smith apple, the spontaneity of bluebells. 
+		</description>
+		
+		<description>
+			Iris is the key ingredient of the perfume, surrounded by orange blossoms and jasmine in the heart. 
+			The compositions opening provides fruity flavour of black currant and pear, while the base is warm, 
+			gourmand and powdery due to almond-like accords of tonka bean, praline, patchouli and vanilla. 
+		</description>
+		
+		<description>
+			Design House: Gianni Versace
+			Fragrance Notes: wild flowers, linen, amber and tobacco.
+			Recommended Use: casual
+		</description>
+		
+		<description>
+			Stetson Sierra by Coty is a Aromatic Fougere fragrance for men. Stetson Sierra was launched in 1993. 
+			Top notes are aldehydes, artemisia, caraway, juniper berries, green notes, basil and bergamot; 
+			middle notes are carnation, jasmine, caraway, rose, pine tree needles and geranium; base notes are leather, 
+			amber, patchouli, musk, oakmoss and cedar
+		</description>
+		
+		<description>
+			Fragrance Type: Eau de Toilette Spray for Men
+			Fragrance Type: Eau de Parfum Spray for Women
+		</description>
+		
+		
+		
+		
+		
+		
+		
+		
+		

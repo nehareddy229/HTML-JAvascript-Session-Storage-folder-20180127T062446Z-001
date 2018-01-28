@@ -1,0 +1,80 @@
+<PerfumeList>
+	<Perfume>
+		<itemId>1</itemId>
+		<imageUrl>dolceAndGabbana.jpg</imageUrl>
+		<name>DOLCE GABBANA Light Blue</name>
+		<price>30.99</price>
+		<description>
+			A stunning perfume, overwhelming and irresistible like the joy of living. 
+			Surprising and colored: the liveliness of Sicilian citron, 
+			the happiness of Granny Smith apple, the spontaneity of bluebells. 
+		</description>
+		<quantity>5</quantity>
+		<volume>3.3 OZ</volume>
+		<category>Women</category>
+		<promoCode>20CPNDG</promoCode>
+	</Perfume>
+	<Perfume>
+		<itemId>2</itemId>
+		<imageUrl>laVieStaBella.jpg</imageUrl>
+		<name>La Vie Est Belle Perfume by Lancome</name>
+		<price>95.55</price>
+		<description>
+		
+			Iris is the key ingredient of the perfume, surrounded by orange blossoms and jasmine in the heart. 
+			The compositions opening provides fruity flavour of black currant and pear, while the base is warm, 
+			gourmand and powdery due to almond-like accords of tonka bean, praline, patchouli and vanilla. 
+		
+		</description>
+		<quantity>10</quantity>
+		<volume>4.0 Oz</volume>
+		<category>Women</category>
+		<promoCode>30CPNLVEB</promoCode>
+	</Perfume>
+	<Perfume>
+		<itemId>3</itemId>
+		<imageUrl>versaceTheDreamer.jpg</imageUrl>
+		<name>Versace The Dreamer Cologne Perfume by Versace</name>
+		<price>32.50</price>
+		<description>
+			Design House: Gianni Versace
+			Fragrance Notes: wild flowers, linen, amber and tobacco.
+			Recommended Use: casual
+			
+		</description>
+		<quantity>12</quantity>
+		<volume>3.3 Oz</volume>
+		<category>Men</category>
+		<promoCode>15CPNVTD</promoCode>
+	</Perfume>
+	<Perfume>
+		<itemId>4</itemId>
+		<imageUrl>stetsonSierra.jpg</imageUrl>
+		<name>Coty Stetson Sierra</name>
+		<price>73.33</price>
+		<description>
+			Stetson Sierra by Coty is a Aromatic Fougere fragrance for men. Stetson Sierra was launched in 1993. 
+			Top notes are aldehydes, artemisia, caraway, juniper berries, green notes, basil and bergamot; 
+			middle notes are carnation, jasmine, caraway, rose, pine tree needles and geranium; base notes are leather, 
+			amber, patchouli, musk, oakmoss and cedar
+		</description>
+		<quantity>4</quantity>
+		<volume>1.5 Oz 44ml</volume>
+		<category>Men</category>
+		<promoCode>50CPNCSS</promoCode>
+	</Perfume>
+	<Perfume>
+		<itemId>5</itemId>
+		<imageUrl>EternitybyCalvinKlein.jpg</imageUrl>
+		<name>Eternity by Calvin Klein</name>
+		<price>26.99</price>
+		<description>
+			Fragrance Type: Eau de Toilette Spray for Men
+			Fragrance Type: Eau de Parfum Spray for Women
+		</description>
+		<quantity>7</quantity>
+		<volume>3.4 Oz 100ml</volume>
+		<category>Men and Women</category>
+		<promoCode>12CPNECK</promoCode>
+	</Perfume>
+</PerfumeList>
